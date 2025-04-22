@@ -4,7 +4,6 @@ A simple electron app wrapper for immersionkit
 
 # Features
 
-- Youtube music website
 - AppIndicator tray icon for keeping the app open + minimized in the background
 
 ## Installation
